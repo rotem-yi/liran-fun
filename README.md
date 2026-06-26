@@ -1,2 +1,2 @@
 # liran-fun
-Fund with liran
+Fun with liran
